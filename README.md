@@ -24,7 +24,7 @@ Demonstrar como criar uma classe com atributos e métodos que representam as fun
 
 ## 📦 Como executar
 
-1. Clone o repositório:
+ Clone o repositório:
 
 ```bash
 git clone https://github.com/Carlos-coder-c/Controle-Remoto-Poo
